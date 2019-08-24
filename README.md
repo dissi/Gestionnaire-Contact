@@ -6,5 +6,5 @@ Le programme gère un tableau de contacts et offre à l’utilisateur le choix e
 Afficher chaque contact du tableau. 
 Quitter. Le programme doit “boucler” jusqu’à ce que l’utilisateur choisisse de quitter. 
 Il doit également utiliser des objets pour gérer les contacts.
-Les deux contacts à insérer initialement dans le tableau sont : Carole Lévisse Mélodie Nelsonne.
+Les deux contacts à insérer initialement dans le tableau sont : Carole Lévisse et Mélodie Nelsonne.
 Pour obtenir le maximum de points possibles, ajoutez la possibilité pour l’utilisateur de saisir un nouveau contact qui sera inséré dans le tableau.
